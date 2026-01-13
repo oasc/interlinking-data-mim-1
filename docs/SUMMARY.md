@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Home](README.md)
+* [Capabilities & Requirements](README.md)
 * [Objectives](objectives.md)
