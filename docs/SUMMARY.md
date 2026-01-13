@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Capabilities & Requirements](README.md)
-* [Objectives](objectives.md)
+* [Objectives](README.md)
+* [Capabilities & Requirements](<README (1).md>)
+* [Mechanisms](mechanisms.md)
+* [Resources](resources.md)
