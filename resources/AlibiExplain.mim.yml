@@ -1,0 +1,38 @@
+MIMYmlVersion: '0.1'
+categories:
+- Framework
+mims:
+- MIM5
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: 'Alibi Explain: Algorithms for Explaining ML Models'
+    localisedName: Alibi Explain
+    longDescription: ''
+    shortDescription: Provides explainability for ML models, enabling interpretable
+      AI components inside LDT services.
+developmentStatus: beta
+landingURL: https://docs.seldon.ai/alibi-explain/
+repoURL: https://github.com/SeldonIO/alibi
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: SeldonIO
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: Alibi Explain
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

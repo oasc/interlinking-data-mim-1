@@ -1,0 +1,38 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM7
+- MIM8
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: ''
+    localisedName: MapLibre
+    longDescription: ''
+    shortDescription: Open-source mapping engine used to render LDT geospatial views.
+developmentStatus: beta
+landingURL: ''
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: MapLibre
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

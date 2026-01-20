@@ -1,0 +1,38 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM7
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: GeoJSON
+    localisedName: GeoJSON
+    longDescription: ''
+    shortDescription: Standard format for geographic features widely used in LDT spatial
+      layers and APIs.
+developmentStatus: beta
+landingURL: https://datatracker.ietf.org/doc/rfc7946/
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: IETF
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: GeoJSON
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

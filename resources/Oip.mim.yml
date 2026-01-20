@@ -1,0 +1,38 @@
+MIMYmlVersion: '0.1'
+categories:
+- Protocol
+mims:
+- MIM5
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Open Inference Protocol
+    localisedName: OIP
+    longDescription: ''
+    shortDescription: Provides tools for integrating heterogeneous components and
+      data sources within an LDT.
+developmentStatus: beta
+landingURL: ''
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: OIP
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM3
+- MIM2
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Distributed Open Marketplace for Europe
+    localisedName: DOME Marketplace
+    longDescription: ''
+    shortDescription: Facilitates sharing of models and datasets, enabling pilots
+      to exchange LDT components across sites.
+developmentStatus: beta
+landingURL: https://dome-marketplace.eu/dashboard
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: DOME Project
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: DOME Marketplace
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

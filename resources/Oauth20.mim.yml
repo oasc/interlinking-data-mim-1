@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Framework
+mims:
+- MIM4
+- MIM6
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: The OAuth 2.0 Authorization Framework
+    localisedName: OAuth 2.0
+    longDescription: ''
+    shortDescription: Provides secure authorisation flows for accessing LDT APIs and
+      services.
+developmentStatus: beta
+landingURL: https://datatracker.ietf.org/doc/html/rfc6749
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: IETF
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: OAuth 2.0
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

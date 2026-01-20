@@ -1,0 +1,40 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM3
+- MIM8
+- MIM7
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: CityJSON (JSON encoding of CityGML)
+    localisedName: CityJSON
+    longDescription: ''
+    shortDescription: Lightweight format for 3D city models enabling large-scale spatial
+      data exchange between LDT components.
+developmentStatus: beta
+landingURL: https://www.cityjson.org/
+repoURL: https://github.com/cityjson/specs
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: CityJSON developers (TU Delft & community)
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: CityJSON
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

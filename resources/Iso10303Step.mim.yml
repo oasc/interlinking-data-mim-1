@@ -1,0 +1,40 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM1
+- MIM2
+- MIM3
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: ''
+    localisedName: ISO 10303 STEP
+    longDescription: ''
+    shortDescription: Standard for product and asset data exchange supporting industrial
+      twin interoperability.
+developmentStatus: beta
+landingURL: ''
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: ISO 10303 STEP
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

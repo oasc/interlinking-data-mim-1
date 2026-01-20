@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM4
+- MIM3
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Decentralized Identifiers (DIDs)
+    localisedName: DIDs
+    longDescription: ''
+    shortDescription: Provide decentralised identities for systems or organisations
+      interacting across interconnected LDTs.
+developmentStatus: beta
+landingURL: https://www.w3.org/TR/did-1.0/
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: W3C
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: DIDs
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

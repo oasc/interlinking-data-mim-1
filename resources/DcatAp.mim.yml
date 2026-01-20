@@ -1,0 +1,40 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM0
+- MIM3
+- MIM1
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: DCAT Application Profile for data portals in Europe
+    localisedName: DCAT-AP
+    longDescription: ''
+    shortDescription: EU metadata profile ensuring LDT datasets can be published into
+      interoperable data catalogs.
+developmentStatus: beta
+landingURL: https://interoperable-europe.ec.europa.eu/collection/semic-support-centre/solution/dcat-application-profile-data-portals-europe/release/300
+repoURL: https://github.com/SEMICeu/DCAT-AP
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: SEMIC
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: DCAT-AP
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

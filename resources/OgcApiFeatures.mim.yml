@@ -1,0 +1,38 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM7
+- MIM0
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Open Geospatial Consortium API - Features
+    localisedName: OGC API Features
+    longDescription: ''
+    shortDescription: Standard API for delivering geospatial feature data to LDT applications.
+developmentStatus: beta
+landingURL: https://docs.ogc.org/is/17-069r4/17-069r4.html
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: OGC
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: OGC API Features
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

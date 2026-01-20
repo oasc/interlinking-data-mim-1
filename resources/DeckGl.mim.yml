@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM7
+- MIM8
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: deck.gl (WebGL-based visualization framework)
+    localisedName: deck.gl
+    longDescription: ''
+    shortDescription: High-performance geospatial visualisation for LDT dashboards
+      handling large-scale spatial datasets.
+developmentStatus: beta
+landingURL: https://deck.gl/#/
+repoURL: https://github.com/visgl/deck.gl
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: vis.gl
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: deck.gl
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Protocol
+mims:
+- MIM3
+- MIM4
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Decentralized Claims Protocol
+    localisedName: DCP
+    longDescription: ''
+    shortDescription: Provides trusted data exchange mechanisms for interoperable
+      interaction between LDTs in data spaces.
+developmentStatus: beta
+landingURL: https://eclipse-dataspace-dcp.github.io/decentralized-claims-protocol/v1.0.1/
+repoURL: https://github.com/eclipse-dataspace-dcp/decentralized-claims-protocol/
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: Eclipse
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: DCP
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

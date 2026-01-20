@@ -1,0 +1,38 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM7
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Industry Foundation Classes (IFC)
+    localisedName: IFC (openBIM)
+    longDescription: ''
+    shortDescription: Open standard for building models enabling detailed building-level
+      integration into LDTs.
+developmentStatus: beta
+landingURL: https://standards.buildingsmart.org/IFC/RELEASE/IFC4_3/
+repoURL: https://github.com/buildingSMART/IFC4.3.x-development?tab=readme-ov-file
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: buildingSMART International
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: IFC (openBIM)
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

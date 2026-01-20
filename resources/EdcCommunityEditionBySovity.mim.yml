@@ -1,0 +1,40 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM3
+- MIM0
+- MIM1
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Eclipse Dataspace Components Community Edition by sovity
+    localisedName: EDC Community Edition by sovity
+    longDescription: ''
+    shortDescription: Open-source version of EDC that simplifies onboarding LDTs into
+      data spaces.
+developmentStatus: beta
+landingURL: https://sovity.de/en/connect-to-data-space-en/
+repoURL: https://github.com/sovity/edc-ce
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: Sovity
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: EDC Community Edition by sovity
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

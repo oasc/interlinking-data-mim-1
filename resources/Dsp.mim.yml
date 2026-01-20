@@ -1,0 +1,40 @@
+MIMYmlVersion: '0.1'
+categories:
+- Protocol
+mims:
+- MIM3
+- MIM0
+- MIM1
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Dataspace Protocol
+    localisedName: DSP
+    longDescription: ''
+    shortDescription: Defines how data is requested, negotiated, and exchanged across
+      LDTs within interoperable data spaces.
+developmentStatus: beta
+landingURL: https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1/
+repoURL: https://github.com/eclipse-dataspace-protocol-base/DataspaceProtocol/
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: Eclipse
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: DSP
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

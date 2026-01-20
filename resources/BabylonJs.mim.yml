@@ -1,0 +1,38 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM1
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Babylon.js
+    localisedName: Babylon.js
+    longDescription: ''
+    shortDescription: Enables rich 3D visualisations for rendering interactive city
+      or asset twins in the browser.
+developmentStatus: beta
+landingURL: https://doc.babylonjs.com/features/introductionToFeatures
+repoURL: https://github.com/BabylonJS/Babylon.js
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: BabylonJS
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: Babylon.js
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

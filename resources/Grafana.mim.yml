@@ -1,0 +1,38 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM8
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Grafana
+    localisedName: Grafana
+    longDescription: ''
+    shortDescription: Supports real-time dashboards for monitoring LDT telemetry and
+      operational KPIs.
+developmentStatus: beta
+landingURL: https://grafana.com/docs/
+repoURL: https://github.com/grafana/grafana
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: Grafana Labs
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: Grafana
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

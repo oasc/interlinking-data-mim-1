@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM8
+- MIM5
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: ''
+    localisedName: KServe
+    longDescription: ''
+    shortDescription: Serves ML models powering analytics within LDTs at scale on
+      Kubernetes.
+developmentStatus: beta
+landingURL: ''
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: KServe
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

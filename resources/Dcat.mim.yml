@@ -1,0 +1,40 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM1
+- MIM0
+- MIM3
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Data Catalog Vocabulary
+    localisedName: DCAT
+    longDescription: ''
+    shortDescription: Standard vocabulary for describing datasets so LDT data can
+      be catalogued and discovered.
+developmentStatus: beta
+landingURL: https://www.w3.org/TR/vocab-dcat-3/
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: W3C
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: DCAT
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

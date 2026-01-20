@@ -1,0 +1,40 @@
+MIMYmlVersion: '0.1'
+categories:
+- Framework
+mims:
+- MIM3
+- MIM0
+- MIM1
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Eclipse Dataspace Components
+    localisedName: EDC
+    longDescription: ''
+    shortDescription: A connector enabling sovereign, policy-controlled data exchange
+      across LDT deployments.
+developmentStatus: beta
+landingURL: https://eclipse-edc.github.io/documentation/
+repoURL: https://github.com/eclipse-edc
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: Eclipse
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: EDC
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

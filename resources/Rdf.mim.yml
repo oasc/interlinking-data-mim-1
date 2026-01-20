@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM1
+- MIM2
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Resource Description Framework
+    localisedName: RDF
+    longDescription: ''
+    shortDescription: Foundation of semantic graphs enabling data interoperability
+      across LDT domains.
+developmentStatus: beta
+landingURL: https://www.w3.org/TR/rdf-primer/
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: W3C
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: RDF
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

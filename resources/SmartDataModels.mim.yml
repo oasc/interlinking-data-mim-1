@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Framework
+mims:
+- MIM2
+- MIM1
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Smart Data Models
+    localisedName: Smart Data Models
+    longDescription: ''
+    shortDescription: Harmonised semantic data models ensuring consistent data exchange
+      across LDTs.
+developmentStatus: beta
+landingURL: https://github.com/smart-data-models
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: FIWARE Foundation, IUDX, TM Forum and OASC
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: Smart Data Models
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

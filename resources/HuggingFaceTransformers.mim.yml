@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM5
+- MIM8
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Hugging Face Transformers
+    localisedName: Hugging Face Transformers
+    longDescription: ''
+    shortDescription: Enables deployment of advanced AI models for prediction and
+      analysis within LDTs.
+developmentStatus: beta
+landingURL: https://huggingface.co/docs/transformers/index
+repoURL: https://github.com/huggingface/transformers
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: Hugging Face
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: Hugging Face Transformers
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

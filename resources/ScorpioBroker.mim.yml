@@ -16,7 +16,7 @@ description:
       NGSI-LD compliant context broker named Scorpio. Developed by NEC Laboratories Europe and NEC Technologies India
 developmentStatus: beta
 landingURL: https://github.com/ScorpioBroker/ScorpioBroker
-repoUrl: https://github.com/ScorpioBroker/ScorpioBroker
+repoURL: https://github.com/ScorpioBroker/ScorpioBroker
 legal:
   authorsFile: 
   license: BSD-3-Clause

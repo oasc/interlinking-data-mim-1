@@ -1,0 +1,43 @@
+MIMYmlVersion: '0.1'
+categories:
+- Framework
+mims:
+- MIM0
+- MIM1
+- MIM2
+- MIM3
+- MIM6
+- MIM7
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Common Assessment Method for Standards and Specifications
+    localisedName: CAMSS
+    longDescription: ''
+    shortDescription: Helps pilots select interoperable, standards-based components
+      through European Commission assessment criteria.
+developmentStatus: beta
+landingURL: https://interoperable-europe.ec.europa.eu/collection/common-assessment-method-standards-and-specifications-camss
+repoURL: https://interoperable-europe.ec.europa.eu/collection/common-assessment-method-standards-and-specifications-camss/camss-solutions
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: Interoperable Europe
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: CAMSS
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

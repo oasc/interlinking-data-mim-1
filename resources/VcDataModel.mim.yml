@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM2
+- MIM4
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Verifiable Credentials Data Model
+    localisedName: VC Data Model
+    longDescription: ''
+    shortDescription: Defines verifiable credential structures used in identity and
+      trust interactions within LDTs.
+developmentStatus: beta
+landingURL: https://www.w3.org/TR/vc-data-model-2.0/
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: W3C
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: VC Data Model
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

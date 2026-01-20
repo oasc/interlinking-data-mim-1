@@ -1,0 +1,38 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM8
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: ''
+    localisedName: Wirecloud
+    longDescription: ''
+    shortDescription: Mashup platform for composing LDT dashboards from distributed
+      data sources.
+developmentStatus: beta
+landingURL: https://wirecloud.readthedocs.io/en/stable/
+repoURL: https://github.com/Wirecloud/wirecloud
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: FIWARE
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: Wirecloud
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

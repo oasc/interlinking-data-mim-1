@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM6
+- MIM4
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: ''
+    localisedName: Keycloak
+    longDescription: ''
+    shortDescription: Provides identity and access management for LDT platforms and
+      connected systems.
+developmentStatus: beta
+landingURL: https://www.keycloak.org/documentation.html
+repoURL: https://github.com/keycloak/keycloak
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: Keycloak
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

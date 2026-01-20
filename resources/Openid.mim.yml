@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Protocol
+mims:
+- MIM4
+- MIM3
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: ''
+    localisedName: OpenID
+    longDescription: ''
+    shortDescription: Provides identity layers for authenticating users or services
+      in LDT ecosystems.
+developmentStatus: beta
+landingURL: ''
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: OpenID
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

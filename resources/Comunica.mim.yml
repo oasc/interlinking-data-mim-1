@@ -1,0 +1,41 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM1
+- MIM8
+- MIM3
+- MIM0
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Comunica Modular SPARQL/Linked Data query engine
+    localisedName: Comunica
+    longDescription: ''
+    shortDescription: Executes federated RDF/SPARQL queries across distributed data
+      sources for cross-LDT data federation.
+developmentStatus: beta
+landingURL: https://comunica.dev/docs/
+repoURL: https://github.com/comunica/comunica
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: IDLab (Ghent University – imec) & community
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: Comunica
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

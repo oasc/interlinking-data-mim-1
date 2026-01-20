@@ -1,0 +1,40 @@
+MIMYmlVersion: '0.1'
+categories:
+- Framework
+mims:
+- MIM4
+- MIM3
+- MIM8
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Gaia-X Architecture & Policy Framework
+    localisedName: Gaia-X
+    longDescription: ''
+    shortDescription: Provides frameworks for trustworthy, federated data infrastructure
+      enabling cross-LDT data exchange.
+developmentStatus: beta
+landingURL: https://docs.gaia-x.eu/#/
+repoURL: https://gitlab.com/gaia-x/
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: Gaia-X Association for Data and Cloud AISBL
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: Gaia-X
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

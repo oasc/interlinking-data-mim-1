@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM0
+- MIM1
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: FIWARE IoT Devices API and Services
+    localisedName: FIWARE IDAS
+    longDescription: ''
+    shortDescription: Manages IoT device provisioning and ingestion for the LDT’s
+      real-time data layer.
+developmentStatus: beta
+landingURL: https://fiwaretourguide.readthedocs.io/en/latest/iot-agents/introduction/
+repoURL: https://github.com/FIWARE/catalogue/tree/master/iot-agents
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: FIWARE
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: FIWARE IDAS
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

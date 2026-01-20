@@ -1,0 +1,40 @@
+MIMYmlVersion: '0.1'
+categories:
+- Framework
+mims:
+- MIM3
+- MIM7
+- MIM1
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: City Information Modelling
+    localisedName: CIM
+    longDescription: ''
+    shortDescription: Standardises city information models, helping pilots structure
+      data for semantic interoperability across twins.
+developmentStatus: beta
+landingURL: ''
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: CIM
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Framework
+mims:
+- MIM6
+- MIM4
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: ''
+    localisedName: iSHARE Trust Framework
+    longDescription: ''
+    shortDescription: Provides shared identity and trust rules for secure LDT data-sharing
+      ecosystems.
+developmentStatus: beta
+landingURL: https://framework.ishare.eu/
+repoURL: https://github.com/iSHAREScheme/
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: iSHARE Trust Framework
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

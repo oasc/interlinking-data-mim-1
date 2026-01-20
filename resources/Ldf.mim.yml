@@ -1,0 +1,40 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM0
+- MIM1
+- MIM3
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: ''
+    localisedName: LDF
+    longDescription: ''
+    shortDescription: Enables scalable querying of distributed linked-data sources
+      within LDT knowledge graphs.
+developmentStatus: beta
+landingURL: https://linkeddatafragments.org/in-depth/
+repoURL: https://linkeddatafragments.org/software/
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: LDF
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

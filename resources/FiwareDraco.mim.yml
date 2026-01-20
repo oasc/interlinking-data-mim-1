@@ -1,0 +1,40 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM1
+- MIM2
+- MIM3
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: FIWARE Draco
+    localisedName: FIWARE Draco
+    longDescription: ''
+    shortDescription: Performs stream-to-batch ETL to transform IoT and LDT telemetry
+      into analytical datasets.
+developmentStatus: beta
+landingURL: https://fiware-draco.readthedocs.io/en/latest/
+repoURL: https://github.com/ging/fiware-draco
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: FIWARE
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: FIWARE Draco
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

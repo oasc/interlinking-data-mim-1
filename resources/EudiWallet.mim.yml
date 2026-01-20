@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Framework
+mims:
+- MIM3
+- MIM4
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: European Digital Identity Wallet
+    localisedName: EUDI Wallet
+    longDescription: ''
+    shortDescription: Enables verified credentials for secure, trusted interactions
+      with LDT services.
+developmentStatus: beta
+landingURL: https://ec.europa.eu/digital-building-blocks/sites/spaces/EUDIGITALIDENTITYWALLET/pages/869793973/Technical+Specifications
+repoURL: https://github.com/eu-digital-identity-wallet
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: European Commission
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: EUDI Wallet
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

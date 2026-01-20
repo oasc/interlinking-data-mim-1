@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM1
+- MIM2
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Web Ontology Language
+    localisedName: OWL 2
+    longDescription: ''
+    shortDescription: Ontology language for modelling semantic data powering LDT knowledge
+      graphs.
+developmentStatus: beta
+landingURL: https://www.w3.org/TR/owl2-overview/
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: W3C
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: OWL 2
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

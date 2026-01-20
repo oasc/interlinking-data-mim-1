@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM1
+- MIM2
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: JSON - Linked Data
+    localisedName: JSON-LD
+    longDescription: ''
+    shortDescription: Adds linked-data semantics to JSON so LDT data can interoperate
+      through knowledge graphs.
+developmentStatus: beta
+landingURL: https://www.w3.org/TR/json-ld11/
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: W3C
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: JSON-LD
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

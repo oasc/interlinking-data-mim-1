@@ -1,0 +1,40 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM0
+- MIM1
+- MIM2
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Next Generation Service Interfaces - Linked Data
+    localisedName: NGSI-LD
+    longDescription: ''
+    shortDescription: Standard API for representing and managing context information
+      across interoperable LDTs.
+developmentStatus: beta
+landingURL: https://cim.etsi.org/NGSI-LD/official/front-page.html
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ETSI
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: NGSI-LD
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

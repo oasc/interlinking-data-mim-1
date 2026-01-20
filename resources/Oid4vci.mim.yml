@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Protocol
+mims:
+- MIM3
+- MIM4
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Verifiable Credentials?
+    localisedName: OID4VCI
+    longDescription: ''
+    shortDescription: Issues verifiable credentials for authenticating actors within
+      LDT ecosystems.
+developmentStatus: beta
+landingURL: ''
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: OID4VCI
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

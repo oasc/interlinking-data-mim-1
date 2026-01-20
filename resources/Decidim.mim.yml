@@ -1,0 +1,38 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM8
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Decidim
+    localisedName: Decidim
+    longDescription: ''
+    shortDescription: Enables participatory processes so LDT insights can support
+      public consultation and decision-making.
+developmentStatus: beta
+landingURL: https://docs.decidim.org/en/develop/index.html
+repoURL: https://github.com/decidim/decidim
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: Associació de Software Lliure Decidim
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: Decidim
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

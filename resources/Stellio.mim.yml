@@ -1,0 +1,40 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM0
+- MIM1
+- MIM2
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: ''
+    localisedName: Stellio
+    longDescription: ''
+    shortDescription: Open-source NGSI-LD digital twin platform for managing context
+      data and twin logic.
+developmentStatus: beta
+landingURL: https://stellio.readthedocs.io/en/latest/
+repoURL: https://github.com/stellio-hub/stellio-context-broker
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: Stellio
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

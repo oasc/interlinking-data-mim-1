@@ -1,0 +1,41 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM0
+- MIM1
+- MIM3
+- MIM2
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: ''
+    localisedName: TM Forum Open APIs
+    longDescription: ''
+    shortDescription: Standard APIs enabling integration of mobility, IoT and service-sector
+      data with LDTs.
+developmentStatus: beta
+landingURL: ''
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: TM Forum Open APIs
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

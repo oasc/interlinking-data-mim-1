@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM1
+- MIM5
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: ''
+    localisedName: PyTorch Geometric
+    longDescription: ''
+    shortDescription: Supports graph-based ML for network analyses in LDT contexts
+      (e.g., mobility, utilities).
+developmentStatus: beta
+landingURL: ''
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: PyTorch Geometric
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

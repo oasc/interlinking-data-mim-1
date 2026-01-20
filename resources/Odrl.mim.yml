@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM4
+- MIM3
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Open Digital Rights Language
+    localisedName: ODRL
+    longDescription: ''
+    shortDescription: Policy language enabling LDTs to express data-sharing rights
+      and restrictions.
+developmentStatus: beta
+landingURL: https://www.w3.org/TR/odrl-model/
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: W3C
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: ODRL
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

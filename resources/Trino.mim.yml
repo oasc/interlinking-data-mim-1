@@ -1,0 +1,40 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM1
+- MIM2
+- MIM3
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: ''
+    localisedName: Trino
+    longDescription: ''
+    shortDescription: Distributed SQL engine providing federated querying across LDT
+      datasets.
+developmentStatus: beta
+landingURL: ''
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: Trino
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

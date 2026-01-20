@@ -1,0 +1,44 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM0
+- MIM1
+- MIM2
+- MIM3
+- MIM6
+- MIM7
+- MIM8
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: ''
+    localisedName: ETSI TC Data
+    longDescription: ''
+    shortDescription: Develops standards for interoperable, trusted data sharing underpinning
+      cross-LDT interactions.
+developmentStatus: beta
+landingURL: ''
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ETSI
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: ETSI TC Data
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM7
+- MIM8
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: openBIM
+    localisedName: openBIM
+    longDescription: ''
+    shortDescription: Ensures building models are interoperable and integrate smoothly
+      into LDT platforms.
+developmentStatus: beta
+landingURL: https://www.buildingsmart.org/about/openbim/
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: buildingSMART International
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: openBIM
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

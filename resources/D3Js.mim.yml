@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM8
+- MIM7
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: D3.js
+    localisedName: D3.js
+    longDescription: ''
+    shortDescription: Enables custom interactive visualisations for insights derived
+      from LDT data.
+developmentStatus: beta
+landingURL: https://d3js.org/
+repoURL: https://github.com/d3/d3
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: Observable Platform
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: D3.js
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

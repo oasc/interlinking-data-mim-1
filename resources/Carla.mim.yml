@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM3
+- MIM8
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: CARLA Unreal Engine 4
+    localisedName: CARLA
+    longDescription: ''
+    shortDescription: Provides realistic mobility simulation to test autonomous or
+      transport scenarios within an LDT.
+developmentStatus: beta
+landingURL: https://carla.readthedocs.io/en/latest/
+repoURL: https://github.com/carla-simulator/carla
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: CARLA team (Computer Vision Center, UAB)
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: CARLA
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

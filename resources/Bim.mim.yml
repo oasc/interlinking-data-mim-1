@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Framework
+mims:
+- MIM8
+- MIM7
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Building Information Modelling
+    localisedName: BIM
+    longDescription: ''
+    shortDescription: Provides structured building-information data that can be integrated
+      into a city’s LDT for asset-level modelling.
+developmentStatus: beta
+landingURL: https://en.wikipedia.org/wiki/Building_information_modeling
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: N/A
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: BIM
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM2
+- MIM1
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: ''
+    localisedName: JSON Schema 2020-12
+    longDescription: ''
+    shortDescription: Validates structured data exchanged between LDT services and
+      APIs.
+developmentStatus: beta
+landingURL: ''
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: JSON Schema 2020-12
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

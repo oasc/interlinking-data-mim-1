@@ -1,0 +1,40 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM0
+- MIM1
+- MIM3
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: FIWARE Data Space Connector
+    localisedName: FIWARE Data Space Connector
+    longDescription: ''
+    shortDescription: Implements data-space connectors using FIWARE components for
+      LDT interconnection.
+developmentStatus: beta
+landingURL: https://github.com/FIWARE/data-space-connector/tree/main/doc
+repoURL: https://github.com/FIWARE/data-space-connector
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: FIWARE
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: FIWARE Data Space Connector
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

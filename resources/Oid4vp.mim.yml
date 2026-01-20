@@ -1,0 +1,39 @@
+MIMYmlVersion: '0.1'
+categories:
+- Protocol
+mims:
+- MIM3
+- MIM4
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: ''
+    localisedName: OID4VP
+    longDescription: ''
+    shortDescription: Allows presentation of verifiable credentials to access or interact
+      with LDT services.
+developmentStatus: beta
+landingURL: ''
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: OID4VP
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

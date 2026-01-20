@@ -1,0 +1,38 @@
+MIMYmlVersion: '0.1'
+categories:
+- Standard
+mims:
+- MIM7
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Open Geospatial Consortium API - Tiles
+    localisedName: OGC API Tiles
+    longDescription: ''
+    shortDescription: Serves tiled geospatial datasets for fast map rendering in LDT
+      interfaces.
+developmentStatus: beta
+landingURL: https://docs.ogc.org/is/20-057/20-057.html
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: OGC
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: OGC API Tiles
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

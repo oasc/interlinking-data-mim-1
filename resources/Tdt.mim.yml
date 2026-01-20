@@ -1,0 +1,41 @@
+MIMYmlVersion: '0.1'
+categories:
+- Protocol
+mims:
+- MIM0
+- MIM1
+- MIM2
+- MIM3
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Trusted Data Transaction
+    localisedName: TDT
+    longDescription: ''
+    shortDescription: Provides secure and auditable trusted data transactions between
+      LDTs.
+developmentStatus: beta
+landingURL: https://www.cencenelec.eu/media/CEN-CENELEC/CWAs/RI/2024/cwa18125_2024.pdf
+repoURL: ''
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: CEN / CENELEC
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: TDT
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

@@ -1,0 +1,41 @@
+MIMYmlVersion: '0.1'
+categories:
+- Tool / implementation
+mims:
+- MIM0
+- MIM1
+- MIM2
+- MIM3
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: ''
+    localisedName: Orion-LD
+    longDescription: ''
+    shortDescription: FIWARE context broker managing real-time contextual information
+      within LDTs.
+developmentStatus: beta
+landingURL: https://github.com/FIWARE/context.Orion-LD/tree/develop/doc/manuals-ld
+repoURL: https://github.com/FIWARE/context.Orion-LD
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: Orion-LD
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

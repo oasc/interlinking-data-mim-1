@@ -1,0 +1,38 @@
+MIMYmlVersion: '0.1'
+categories:
+- Framework
+mims:
+- MIM8
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: Fairlearn
+    localisedName: Fairlearn
+    longDescription: ''
+    shortDescription: Ensures ML-driven LDT analytics comply with fairness, ethics,
+      and explainability requirements.
+developmentStatus: beta
+landingURL: https://fairlearn.org/
+repoURL: https://github.com/fairlearn/fairlearn
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: Fairlearn Community
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: Fairlearn
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:

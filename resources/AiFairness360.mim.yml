@@ -1,0 +1,38 @@
+MIMYmlVersion: '0.1'
+categories:
+- Framework
+mims:
+- MIM5
+description:
+  en:
+    features:
+    - enables accessing data
+    genericName: AI Fairness 360
+    localisedName: AI Fairness 360
+    longDescription: ''
+    shortDescription: Helps ensure that AI models used in LDTs behave fairly and transparently
+      across populations.
+developmentStatus: beta
+landingURL: https://aif360.readthedocs.io/en/stable/
+repoURL: https://github.com/Trusted-AI/AIF360
+legal:
+  authorsFile:
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: The Linux Foundation
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: AI Fairness 360
+platforms:
+- web
+releaseDate:
+roadmap:
+softwareType: standalone/other
+softwareVersion:
+url:
+usedBy:
