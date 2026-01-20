@@ -1,0 +1,40 @@
+MIMYmlVersion: '0.1'
+categories:
+  - collaboration
+  - project-collaboration
+mims:
+  - accessing-data-mim-0
+  - interlinking-data-mim-1
+description:
+  en:
+    features:
+      - enables accessing data
+    genericName: Scorpio Context Broker
+    localisedName: Scorpio Context Broker 
+    longDescription: |
+    shortDescription: |-
+      NGSI-LD compliant context broker named Scorpio. Developed by NEC Laboratories Europe and NEC Technologies India
+developmentStatus: beta
+landingURL: https://github.com/ScorpioBroker/ScorpioBroker
+repoUrl: https://github.com/ScorpioBroker/ScorpioBroker
+legal:
+  authorsFile: 
+  license: BSD-3-Clause
+  mainCopyrightOwner: NEC
+  repoOwner: ScorpioBroker
+localisation:
+  availableLanguages:
+    - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: Scorpio Context Broker
+platforms:
+  - web
+releaseDate: 
+roadmap: 
+softwareType: standalone/other
+softwareVersion: 
+url: 
+usedBy:

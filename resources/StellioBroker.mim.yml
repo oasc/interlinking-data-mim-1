@@ -1,0 +1,40 @@
+MIMYmlVersion: '0.1'
+categories:
+  - NGSI-LD
+  - Brokers
+mims:
+  - accessing-data-mim-0
+  - interlinking-data-mim-1
+description:
+  en:
+    features:
+      - enables accessing data
+    genericName: Stellio Context Broker
+    localisedName: Stellio Context Broker 
+    longDescription: |
+    shortDescription: |-
+     Stellio is an NGSI-LD compatible context broker
+developmentStatus: beta
+landingURL: https://github.com/stellio-hub/stellio-context-broker
+repoUrl: https://github.com/stellio-hub/stellio-context-broker
+legal:
+  authorsFile: 
+  license: Apache-2.0
+  mainCopyrightOwner: EGM
+  repoOwner: stellio-hub
+localisation:
+  availableLanguages:
+    - en
+  localisationReady: false
+maintenance:
+  contacts:
+  type: internal
+name: Stellio Context Broker
+platforms:
+  - web
+releaseDate: 
+roadmap: 
+softwareType: standalone/other
+softwareVersion: 
+url: 
+usedBy:
