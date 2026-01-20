@@ -42,8 +42,9 @@ for file in "${files[@]}"; do
     mims = format_bullets(data["mims"])
     license = format_value(data.dig("legal", "license"))
 
-    puts "| #{name} |"
-    puts "| ------ |"
+    header_name = format_value(data.dig("description", "en", "genericName"))
+    puts "| Name | #{header_name} |"
+    puts "| ------ | ------ |"
     puts "| Description: | #{desc} |"
     puts "| URL: | #{url} |"
     puts "| MIMs: | #{mims} |"
