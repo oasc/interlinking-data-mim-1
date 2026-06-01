@@ -1,6 +1,6 @@
 # Mechanisms
 
-## M1 Linked Data with RDF, OWL, and SHACL
+## Mechanism 1: Linked Data with RDF, OWL, and SHACL
 
 #### 1. Overview
 
