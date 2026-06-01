@@ -15,5 +15,3 @@ Each Minimal Interoperability Mechanism is composed of:
 * Mechanisms
 * Interoperability Guidance
 * Conformance and Compliance Testing
-
-For more information on how to contribute and how decisions are made, please see [CONTRIBUTING.md](https://github.com/oasc/accessing-data-mim-0/blob/main/docs/CONTRIBUTING.md) and [GOVERNANCE.md](https://github.com/oasc/accessing-data-mim-0/blob/main/docs/GOVERNANCE.md).
