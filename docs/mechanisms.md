@@ -1,6 +1,6 @@
 # Mechanisms
 
-## MIM2 Mechanism Draft: Linked Data with RDF, OWL, and SHACL
+## M1 Linked Data with RDF, OWL, and SHACL
 
 #### 1. Overview
 
